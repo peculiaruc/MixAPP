@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-        
+      ![LongIn](https://github.com/peculiaruc/MixAPP/blob/master/app/src/screenshots/device-2021-05-03-114700.png) 
    
    </td>
     
