@@ -5,6 +5,7 @@
 
 ## How to access the app
 * To login to the app, you must use a restricted email and password which is located at LogInActivity.
+* 
 
 ### Screenshoots
 <table>
