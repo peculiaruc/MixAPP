@@ -10,10 +10,28 @@
 ### Screenshoots
 <table>
   <tr>
-    <td>
+   <td>
+      
+   ![LongIn](https://github.com/peculiaruc/MixAPP/blob/master/app/src/screenshots/device-2021-05-04-032429.png) 
     
-   ![LongIn]() 
+   </td>
+   
+   <td>
+       
+   ![LongIn](https://github.com/peculiaruc/MixAPP/blob/master/app/src/screenshots/device-2021-05-04-032544.png) 
+     
+   </td>
+     
+   <td>
+    
+   ![LongIn](https://github.com/peculiaruc/MixAPP/blob/master/app/src/screenshots/device-2021-05-04-032627.png) 
   
+   </td>
+   
+   <td>
+       
+   ![LongIn](https://github.com/peculiaruc/MixAPP/blob/master/app/src/screenshots/device-2021-05-04-032603.png) 
+     
    </td>
     
   </tr>
